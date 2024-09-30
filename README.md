@@ -17,9 +17,9 @@
 ## Date: 9/30/24
 ## Strategy: Iron Condor
 
-![image](https://github.com/user-attachments/assets/052a3925-9945-43e0-bfa7-e85f9c514cc7)
-![image](https://github.com/user-attachments/assets/4a433dac-f1ca-41ad-a022-7698ce52fcf8)
-![image](https://github.com/user-attachments/assets/837c44af-2070-4101-8f1f-89bf9d0b7d0b)
+![image](https://github.com/user-attachments/assets/a382446b-e17c-4fdc-8564-699f2de75254)
+![image](https://github.com/user-attachments/assets/e490c5e9-6872-45bd-be58-274eca1dddbb)
+![image](https://github.com/user-attachments/assets/0e144cf9-af85-4ce6-94cd-e7f9f53d7ba7)
 
 
 
