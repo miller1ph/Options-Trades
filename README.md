@@ -23,6 +23,6 @@
 
 
 
-## Result: WIN $442.02 - 11.55% of Trading Capital
+## Result: $442.02  11.55%  WIN!!
 
 
