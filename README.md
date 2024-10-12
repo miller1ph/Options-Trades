@@ -7,7 +7,7 @@
 
 ![image](https://github.com/user-attachments/assets/ae74f980-8231-4557-8514-c2f13368a982)
 ![image](https://github.com/user-attachments/assets/9eadd58e-c9a1-4e39-89c3-d4319afc9d16)
-![image](https://github.com/user-attachments/assets/e850d2fb-b738-4e82-8e4f-96cc8fc509fb)
+
 
 
 ## Result: 
@@ -18,13 +18,12 @@
 
 ![image](https://github.com/user-attachments/assets/a382446b-e17c-4fdc-8564-699f2de75254)
 ![image](https://github.com/user-attachments/assets/e490c5e9-6872-45bd-be58-274eca1dddbb)
-![image](https://github.com/user-attachments/assets/1083175d-9d9c-482d-92d1-532a447f7d00)
 ![image](https://github.com/user-attachments/assets/1437cb12-a80c-400b-a3bb-22b7cc1967d4)
 
 
 ## Result: Closed 10/11/24
 ##         Profit $442.02  
-##         11.55%  
+##         Profit % - 11.55%  
 ##         WIN!!
 
 
