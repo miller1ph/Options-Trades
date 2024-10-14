@@ -26,4 +26,12 @@
 ##         Profit % - 11.55%  
 
 
+## Trade #3: 
+## Entry Date: 10/14/24
+## Exit Date: Still Open
+## Strategy: Iron Condor
 
+![image](https://github.com/user-attachments/assets/999d83f5-4fac-4c48-88b3-c629f6c8ef6d)
+![image](https://github.com/user-attachments/assets/05faa609-ab4a-4b23-9185-0c8cf4e2fdad)
+
+## Result: 
