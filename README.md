@@ -2,6 +2,7 @@
 
 
 ## Trade #1: 
+## Ticker: NFLX
 ## Entry Date: 9/23/24
 ## Exit Date: Still Open
 ## Strategy: Bullish Put Spread
@@ -12,6 +13,7 @@
 ## Result: 
 
 ## Trade #2: 
+## Ticker: TSLA
 ## Entry Date: 9/30/24
 ## Exit Date: 10/11/24
 ## Strategy: Iron Condor
@@ -27,6 +29,7 @@
 
 
 ## Trade #3: 
+## Ticker: META
 ## Entry Date: 10/14/24
 ## Exit Date: Still Open
 ## Strategy: Iron Condor
