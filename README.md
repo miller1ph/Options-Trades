@@ -31,8 +31,8 @@
 ## Exit Date: Still Open
 ## Strategy: Iron Condor
 
-![image](https://github.com/user-attachments/assets/999d83f5-4fac-4c48-88b3-c629f6c8ef6d)
+![image](https://github.com/user-attachments/assets/8633e369-6eeb-46a2-bcf5-b36613faed37)
 
-![image](https://github.com/user-attachments/assets/05faa609-ab4a-4b23-9185-0c8cf4e2fdad)
+![image](https://github.com/user-attachments/assets/b29d1ec8-1385-484e-91c2-b72ea70d0e3c)
 
 ## Result: 
