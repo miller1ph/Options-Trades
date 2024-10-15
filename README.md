@@ -3,7 +3,8 @@
 # Profit/Loss of Open Trades: $ 183.66
 # % Profit (Loss): 8.94%
 
-
+<br>
+<br>
 # Options-Trades
 
 ## Trade #1: 
