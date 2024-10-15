@@ -1,7 +1,7 @@
-# Initial Capital: $7,000
+# Initial Capital: $7,006.85
 # Profit/Loss of Closed Trades: $ 442.02
 # Profit/Loss of Open Trades: $ 183.66
-# % Profit (Loss): 8.94%
+# % Profit (Loss): 8.93%
 
 <br>
 <br>
