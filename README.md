@@ -1,5 +1,10 @@
-# Options-Trades
+# Initial Capital: $7,000
+# Profit/Loss of Closed Trades: $ 442.02
+# Profit/Loss of Open Trades: $ 183.66
+# % Profit (Loss): 8.94%
 
+
+# Options-Trades
 
 ## Trade #1: 
 ## Ticker: NFLX
