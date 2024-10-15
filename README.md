@@ -12,6 +12,7 @@
 
 ## Result: 
 
+
 ## Trade #2: 
 ## Ticker: TSLA
 ## Entry Date: 9/30/24
