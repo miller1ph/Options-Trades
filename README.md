@@ -12,6 +12,7 @@
 
 ## Result: 
 
+<br>
 
 ## Trade #2: 
 ## Ticker: TSLA
@@ -28,6 +29,7 @@
 ##         Profit $442.02  
 ##         Profit % - 11.55%  
 
+<br>
 
 ## Trade #3: 
 ## Ticker: META
