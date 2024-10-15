@@ -5,6 +5,7 @@
 
 <br>
 <br>
+
 # Options-Trades
 
 ## Trade #1: 
