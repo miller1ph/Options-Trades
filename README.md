@@ -49,3 +49,25 @@
 ![image](https://github.com/user-attachments/assets/b29d1ec8-1385-484e-91c2-b72ea70d0e3c)
 
 ## Result: 
+
+<br>
+
+## Trade #4: 
+## Ticker: META
+## Entry Date: 10/15/24
+## Exit Date: Still Open
+## Strategy: Iron Condor
+
+![image](https://github.com/user-attachments/assets/d3bd0376-34d9-4d58-8c6c-f0abc849d7de)
+![image](https://github.com/user-attachments/assets/b00e37ee-bb3b-4a55-bc2b-9b423665f7bf)
+
+<br>
+
+## Trade #5: 
+## Ticker: META
+## Entry Date: 10/15/24
+## Exit Date: Still Open
+## Strategy: Iron Condor
+
+![image](https://github.com/user-attachments/assets/cf8ab887-8d68-4b7d-8344-586ed14ce6ce)
+![image](https://github.com/user-attachments/assets/32f439cb-2774-4743-a133-32bb0aba1386)
