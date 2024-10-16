@@ -33,7 +33,7 @@
 
 ## Result: WIN!!
 ##         Profit $436.03
-##         Profit % - 11.55%  
+##         Profit % - 11.39%  
 
 <br>
 
