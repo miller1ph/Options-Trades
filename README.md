@@ -72,3 +72,17 @@
 
 ![image](https://github.com/user-attachments/assets/cf8ab887-8d68-4b7d-8344-586ed14ce6ce)
 ![image](https://github.com/user-attachments/assets/32f439cb-2774-4743-a133-32bb0aba1386)
+
+
+<br>
+
+## Trade #6: 
+## Ticker: META
+## Entry Date: 10/16/24
+## Exit Date: Still Open
+## Strategy: Iron Condor
+
+![image](https://github.com/user-attachments/assets/11974ae5-a698-45d1-9edb-241a12714c59)
+![image](https://github.com/user-attachments/assets/1587ebe2-fc63-407a-880c-beaacfb321c1)
+
+
