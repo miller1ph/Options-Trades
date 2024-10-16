@@ -18,7 +18,7 @@
 
 ## Result: WIN!!
 ##         Profit $110.64
-##         Profit % - 3.60%  
+##         Profit %:  3.60%  
 
 <br>
 
@@ -35,7 +35,7 @@
 
 ## Result: WIN!!
 ##         Profit $436.03
-##         Profit % - 11.39%  
+##         Profit %:  11.39%  
 
 <br>
 
