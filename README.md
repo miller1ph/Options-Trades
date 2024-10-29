@@ -48,6 +48,8 @@
 
 ![image](https://github.com/user-attachments/assets/8633e369-6eeb-46a2-bcf5-b36613faed37)
 ![image](https://github.com/user-attachments/assets/b29d1ec8-1385-484e-91c2-b72ea70d0e3c)
+![image](https://github.com/user-attachments/assets/d694ea5e-58f4-4295-b598-7f5c67a5f66a)
+
 
 ## Result: WIN!!
 ##         Profit $411.00
@@ -63,6 +65,8 @@
 
 ![image](https://github.com/user-attachments/assets/d3bd0376-34d9-4d58-8c6c-f0abc849d7de)
 ![image](https://github.com/user-attachments/assets/b00e37ee-bb3b-4a55-bc2b-9b423665f7bf)
+![image](https://github.com/user-attachments/assets/b4dd5823-514b-4a83-9a92-1687b4251764)
+
 
 ## Result: WIN!!
 ##         Profit $234.00
@@ -79,6 +83,7 @@
 
 ![image](https://github.com/user-attachments/assets/cf8ab887-8d68-4b7d-8344-586ed14ce6ce)
 ![image](https://github.com/user-attachments/assets/32f439cb-2774-4743-a133-32bb0aba1386)
+![image](https://github.com/user-attachments/assets/acaf85af-9174-4272-8ea9-b19c54814a4d)
 
 
 ## Result: WIN!!
@@ -95,6 +100,7 @@
 
 ![image](https://github.com/user-attachments/assets/11974ae5-a698-45d1-9edb-241a12714c59)
 ![image](https://github.com/user-attachments/assets/1587ebe2-fc63-407a-880c-beaacfb321c1)
+![image](https://github.com/user-attachments/assets/b396f1f1-01a6-433c-8308-e28d7254c3ff)
 
 ## Result: WIN!!
 ##         Profit $305.00
