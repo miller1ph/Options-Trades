@@ -49,7 +49,9 @@
 ![image](https://github.com/user-attachments/assets/8633e369-6eeb-46a2-bcf5-b36613faed37)
 ![image](https://github.com/user-attachments/assets/b29d1ec8-1385-484e-91c2-b72ea70d0e3c)
 
-## Result: 
+## Result: WIN!!
+##         Profit $411.00
+##         Profit %:  11.39%  
 
 <br>
 
