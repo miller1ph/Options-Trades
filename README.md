@@ -1,6 +1,6 @@
 # Initial Capital: $16,923.25
-# Profit/Loss of Closed Trades: $ 546.67
-# % Profit (Loss): 3.23%
+# Profit/Loss of Closed Trades: $ 1971.31
+# % Profit (Loss): 11.65%
 
 <br>
 <br>
@@ -10,7 +10,7 @@
 ## Trade #1: 
 ## Ticker: NFLX
 ## Entry Date: 9/23/24
-## Exit Date: Still Open
+## Exit Date: 10/16/24
 ## Strategy: Bullish Put Spread
 
 ![image](https://github.com/user-attachments/assets/ae74f980-8231-4557-8514-c2f13368a982)
@@ -43,7 +43,7 @@
 ## Trade #3: 
 ## Ticker: META
 ## Entry Date: 10/14/24
-## Exit Date: Still Open
+## Exit Date: 10/29/24
 ## Strategy: Iron Condor
 
 ![image](https://github.com/user-attachments/assets/8633e369-6eeb-46a2-bcf5-b36613faed37)
@@ -60,7 +60,7 @@
 ## Trade #4: 
 ## Ticker: META
 ## Entry Date: 10/15/24
-## Exit Date: Still Open
+## Exit Date: 10/29/24
 ## Strategy: Iron Condor
 
 ![image](https://github.com/user-attachments/assets/d3bd0376-34d9-4d58-8c6c-f0abc849d7de)
@@ -78,7 +78,7 @@
 ## Trade #5: 
 ## Ticker: META
 ## Entry Date: 10/15/24
-## Exit Date: Still Open
+## Exit Date: 10/29/24
 ## Strategy: Iron Condor
 
 ![image](https://github.com/user-attachments/assets/cf8ab887-8d68-4b7d-8344-586ed14ce6ce)
@@ -95,7 +95,7 @@
 ## Trade #6: 
 ## Ticker: META
 ## Entry Date: 10/16/24
-## Exit Date: Still Open
+## Exit Date: 10/29/24
 ## Strategy: Iron Condor
 
 ![image](https://github.com/user-attachments/assets/11974ae5-a698-45d1-9edb-241a12714c59)
