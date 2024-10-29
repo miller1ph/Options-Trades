@@ -51,7 +51,7 @@
 
 ## Result: WIN!!
 ##         Profit $411.00
-##         Profit %:  11.39%  
+##         Profit %:  10.06%  
 
 <br>
 
@@ -63,6 +63,11 @@
 
 ![image](https://github.com/user-attachments/assets/d3bd0376-34d9-4d58-8c6c-f0abc849d7de)
 ![image](https://github.com/user-attachments/assets/b00e37ee-bb3b-4a55-bc2b-9b423665f7bf)
+
+## Result: WIN!!
+##         Profit $234.00
+##         Profit %:  5.56%  
+
 
 <br>
 
@@ -76,6 +81,10 @@
 ![image](https://github.com/user-attachments/assets/32f439cb-2774-4743-a133-32bb0aba1386)
 
 
+## Result: WIN!!
+##         Profit $364.00
+##         Profit %:  8.92%  
+
 <br>
 
 ## Trade #6: 
@@ -87,4 +96,6 @@
 ![image](https://github.com/user-attachments/assets/11974ae5-a698-45d1-9edb-241a12714c59)
 ![image](https://github.com/user-attachments/assets/1587ebe2-fc63-407a-880c-beaacfb321c1)
 
-
+## Result: WIN!!
+##         Profit $305.00
+##         Profit %:  7.66%  
