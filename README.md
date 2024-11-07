@@ -105,3 +105,14 @@
 ## Result: WIN!!
 ##         Profit $305.00
 ##         Profit %:  7.66%  
+
+<br>
+
+## Trade #7: 
+## Ticker: MSTR
+## Entry Date: 11/7/24
+## Exit Date: Still Open
+## Strategy: Iron Condor
+
+![image](https://github.com/user-attachments/assets/700772ac-a95f-44db-a593-70ace09935d6)
+![image](https://github.com/user-attachments/assets/afa5f3f5-3fef-4ad1-998e-4c5fe01b6fd7)
