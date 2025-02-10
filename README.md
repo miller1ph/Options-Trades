@@ -20,11 +20,3 @@
 ## Result: WIN!!
 ##         Profit $110.64
 ##         Profit %:  3.60%  
-
-<br>
-
-
-## Strategy: Iron Condor
-
-![image](https://github.com/user-attachments/assets/700772ac-a95f-44db-a593-70ace09935d6)
-![image](https://github.com/user-attachments/assets/afa5f3f5-3fef-4ad1-998e-4c5fe01b6fd7)
