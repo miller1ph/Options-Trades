@@ -36,10 +36,10 @@
 
 Summary (Entry Checklist)
 
-✅ DTE: 45 Days
-✅ IV Rank: Above 30-50
-✅ VIX Level: 20-25 (avoid very low VIX)
-✅ VIX Spike: >10-15% increase before entry
+✅ DTE: 45 Days <br>
+✅ IV Rank: Above 30-50 <br>
+✅ VIX Level: 20-25 (avoid very low VIX) <br>
+✅ VIX Spike: >10-15% increase before entry <br>
 ✅ Market Trend: Neutral to range-bound
 
 ## EXIT
