@@ -5,8 +5,8 @@
 <br>
 <br>
 
-# Options Trading -Rules (Iron Condor)
-## ENTRY
+## Options Trading -Rules (Iron Condor)
+### ENTRY
 1. Best Time to Enter
 
     45 Days to Expiration (DTE):
@@ -42,7 +42,7 @@ Summary (Entry Checklist)
 ✅ VIX Spike: >10-15% increase before entry <br>
 ✅ Market Trend: Neutral to range-bound
 
-## EXIT
+### EXIT
 1. When Price Moves Toward a Short Strike (Directional Move Against You)
 
 If the underlying price moves toward your short put or short call, consider these adjustments:
@@ -72,6 +72,14 @@ A. Wait It Out
 B. Close and Reopen at Higher Premiums
 
     If IV continues rising, you can close the position and re-enter at a wider spread and higher credit to improve overall risk/reward.
+
+
+3. When to Cut Losses? (Stop-Loss Plan)
+
+Having a predefined exit strategy is crucial:<br>
+✔ 50% of Max Loss: Close the trade if losses reach 50% of the max possible loss.<br>
+✔ 21 DTE Rule: If near 21 DTE and the trade isn’t profitable, consider rolling or closing.<br>
+✔ Break-Even Test: If price breaches your break-even level and conditions don’t favor a reversal, consider adjusting or exiting.
 
 <br>
 <br>
