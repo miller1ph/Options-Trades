@@ -1,6 +1,5 @@
 # Initial Capital: $10,075.45
-# Profit/Loss of Closed Trades: $ NA
-# Net Profit (Loss): $713.79
+# Profit/Loss of Closed Trades: $713.79
 # % Profit (Loss): 7.57%
 
 
