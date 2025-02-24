@@ -98,7 +98,7 @@ Having a predefined exit strategy is crucial:<br>
 ![image](https://github.com/user-attachments/assets/e2bb7c45-f15e-4b2e-a7fa-3f79aa21b6c0)
 
 ## Result: WIN !!
-##         Gross Profit $713.79
+##         Gross Profit $759.00
 ##         Commissions $45.21
 ##         Net Profit (Loss): $713.79
-##         Profit %: 7.57% 
+##         % Profit : 7.57% 
