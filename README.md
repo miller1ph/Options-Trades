@@ -1,6 +1,8 @@
 # Initial Capital: $10,075.45
 # Profit/Loss of Closed Trades: $ NA
-# % Profit (Loss): NA
+# Net Profit (Loss): $713.79
+# % Profit (Loss): 7.57%
+
 
 <br>
 <br>
@@ -90,12 +92,14 @@ Having a predefined exit strategy is crucial:<br>
 ## Trade #1: 
 ## Ticker: SMH
 ## Entry Date: 2/5/25
-## Exit Date: 
+## Exit Date: 2/24/25
 ## Strategy: Iron Condor
 
 ![image](https://github.com/user-attachments/assets/7f751f03-923c-4563-ace3-e5df1ba6c861)
 ![image](https://github.com/user-attachments/assets/e2bb7c45-f15e-4b2e-a7fa-3f79aa21b6c0)
 
-## Result: !!
-##         Profit $
-##         Profit %:  
+## Result: WIN !!
+##         Gross Profit $713.79
+##         Commissions $45.21
+##         Net Profit (Loss): $713.79
+##         Profit %: 7.57% 
