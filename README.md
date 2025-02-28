@@ -102,3 +102,23 @@ Having a predefined exit strategy is crucial:<br>
 ##         Commissions $45.21
 ##         Net Profit (Loss): $713.79
 ##         % Profit : 7.57% 
+
+<br>
+<br>
+
+## Trade #2: 
+## Ticker: SMH
+## Entry Date: 2/27/25
+## Exit Date: 
+## Strategy: Iron Condor
+
+![image](https://github.com/user-attachments/assets/9b344ed1-2bd0-42ad-8956-e3750c989743)
+![image](https://github.com/user-attachments/assets/1883f925-b3ce-43a9-ac3f-a21e27563c92)
+
+
+## Result: 
+##         Gross Profit 
+##         Commissions 
+##         Net Profit (Loss): 
+##         % Profit : 
+
