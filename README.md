@@ -119,6 +119,7 @@ Having a predefined exit strategy is crucial:<br>
 <br>
 ## ROLL #1:
 <br>
+
 ![image](https://github.com/user-attachments/assets/4855c594-15e6-4f19-b035-96eadb9724f2)
 ![image](https://github.com/user-attachments/assets/4f664b0e-048d-4bef-b371-e6dcc06ae1da)
 
