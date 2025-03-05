@@ -109,11 +109,14 @@ Having a predefined exit strategy is crucial:<br>
 ## Trade #2: 
 ## Ticker: SMH
 ## Entry Date: 2/27/25
+## Roll #1 Date: 3/3/25
 ## Exit Date: 
 ## Strategy: Iron Condor
 
 ![image](https://github.com/user-attachments/assets/9b344ed1-2bd0-42ad-8956-e3750c989743)
 ![image](https://github.com/user-attachments/assets/1883f925-b3ce-43a9-ac3f-a21e27563c92)
+![image](https://github.com/user-attachments/assets/7080cd4b-7ac3-4623-bdf8-d684d47ccdf5)
+
 
 
 ## Result: 
