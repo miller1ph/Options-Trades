@@ -131,7 +131,7 @@ Having a predefined exit strategy is crucial:<br>
 <br>
 
 
-![image](https://github.com/user-attachments/assets/51780040-a1c4-4999-b487-c09965c4a81d)
+
 ![image](https://github.com/user-attachments/assets/662c3184-c2be-45f1-97fc-5dc103b2b0de)
 ![image](https://github.com/user-attachments/assets/aa7650b6-8c0d-43ac-8511-9b87df9a8b46)
 
