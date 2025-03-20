@@ -132,8 +132,8 @@ If implied volatility increases significantly, your Iron Condor may show a paper
 <br>
 
 ### **Result:**  
-- 💰 **Gross Profit:**  
-- 💰 **Commissions:**  
-- 💰 **Net Profit (Loss):**  
+- 💰 **Gross Profit:**  $312.00
+- 💰 **Commissions:**  $110.79
+- 💰 **Net Profit (Loss):**  $201.21
 - 📈 **% Profit:**  
 
