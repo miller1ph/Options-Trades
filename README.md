@@ -1,6 +1,6 @@
 # Initial Capital: $10,075.45
-# Profit/Loss of Closed Trades: $713.79
-# % Profit (Loss): 7.07%
+# Profit/Loss of Closed Trades: $915.00
+# % Profit (Loss): 9.08%
 
 <br>
 <br>
@@ -109,7 +109,7 @@ If implied volatility increases significantly, your Iron Condor may show a paper
 ### **Entry Date:** 2/27/25  
 ### **Roll #1 Date:** 3/3/25  
 ### **Roll #2 Date:** 3/10/25  
-### **Exit Date:**  
+### **Exit Date:**  3/20/2025
 ### **Strategy:** Iron Condor  
 
 ![image](https://github.com/user-attachments/assets/9b344ed1-2bd0-42ad-8956-e3750c989743)  
@@ -135,5 +135,5 @@ If implied volatility increases significantly, your Iron Condor may show a paper
 - 💰 **Gross Profit:**  $312.00
 - 💰 **Commissions:**  $110.79
 - 💰 **Net Profit (Loss):**  $201.21
-- 📈 **% Profit:**  
+- 📈 **% Profit:**  2.09%
 
