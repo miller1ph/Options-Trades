@@ -137,3 +137,23 @@ If implied volatility increases significantly, your Iron Condor may show a paper
 - 💰 **Net Profit (Loss):**  $201.21
 - 📈 **% Profit:**  2.09%
 
+<br>
+<br>
+
+## Trade #3:  
+### **Ticker:** QCOM  
+### **Entry Date:** 2/27/25  
+### **Exit Date:** 
+### **Strategy:** Iron Condor  
+
+![image](https://github.com/user-attachments/assets/ffd6a9d7-f3a6-4f9d-93ed-6e6f22917f83)
+![image](https://github.com/user-attachments/assets/95d8d649-8dc8-42f6-bcd6-1473d50213c2)
+
+### **Result:  
+- 💰 **Gross Profit:** 
+- 💰 **Commissions:** 
+- 💰 **Net Profit (Loss):** 
+- 📈 **% Profit:** ****  
+
+<br>
+<br>
