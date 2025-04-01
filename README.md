@@ -146,8 +146,10 @@ If implied volatility increases significantly, your Iron Condor may show a paper
 ### **Exit Date:** 
 ### **Strategy:** Iron Condor  
 
-![image](https://github.com/user-attachments/assets/ffd6a9d7-f3a6-4f9d-93ed-6e6f22917f83)
-![image](https://github.com/user-attachments/assets/95d8d649-8dc8-42f6-bcd6-1473d50213c2)
+![image](https://github.com/user-attachments/assets/b625e90c-f0d9-4501-a4ac-5345d08cc71a)
+![image](https://github.com/user-attachments/assets/ee7f8517-5435-4517-9115-e53c2d5cddb5)
+
+
 
 ### **Result:  
 - 💰 **Gross Profit:** 
