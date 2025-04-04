@@ -143,6 +143,7 @@ If implied volatility increases significantly, your Iron Condor may show a paper
 ## Trade #3:  
 ### **Ticker:** QCOM  
 ### **Entry Date:** 2/27/25  
+### **Roll #1 Date:** 4/3/25  
 ### **Exit Date:** 
 ### **Strategy:** Iron Condor  
 
