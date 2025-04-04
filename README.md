@@ -149,6 +149,12 @@ If implied volatility increases significantly, your Iron Condor may show a paper
 ![image](https://github.com/user-attachments/assets/b625e90c-f0d9-4501-a4ac-5345d08cc71a)
 ![image](https://github.com/user-attachments/assets/ee7f8517-5435-4517-9115-e53c2d5cddb5)
 
+<br>
+<br>
+
+## ROLL #1:  
+![image](https://github.com/user-attachments/assets/24bb2a28-12d1-4e0b-adf7-5774bc9a8eea)
+![image](https://github.com/user-attachments/assets/f4f214c8-db6f-4a3c-bfa4-e4c3f0895bce)
 
 
 ### **Result:  
@@ -156,6 +162,3 @@ If implied volatility increases significantly, your Iron Condor may show a paper
 - 💰 **Commissions:** 
 - 💰 **Net Profit (Loss):** 
 - 📈 **% Profit:** ****  
-
-<br>
-<br>
